@@ -16,10 +16,7 @@ body {
   background: radial-gradient(circle at top, #eef2ff 0%, #f8fafc 45%, #ffffff 100%);
 }
 
-img {
-  max-width: 100%;
-  display: block;
-}
+
 
 .container {
   width: min(1120px, calc(100% - 2rem));
