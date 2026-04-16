@@ -69,7 +69,6 @@ body {
   padding: 4rem 0 3rem;
 }
 
-/* <!-- test --> */
 .hero-content {
   display: grid;
   grid-template-columns: 1.2fr 0.8fr;
@@ -102,7 +101,6 @@ body {
   color: #334155;
 }
 
-/* <!-- test --> */
 .hero-image {
   border-radius: 1.5rem;
   overflow: hidden;
@@ -136,7 +134,6 @@ body {
   color: #ffffff;
 }
 
-/* <!-- test --> */
 .features,
 .why-us {
   padding: 3rem 0;
@@ -236,7 +233,6 @@ body {
   color: rgba(226, 232, 240, 0.7);
 }
 
-/* <!-- test --> */
 .contact-form .button {
   width: fit-content;
 }
